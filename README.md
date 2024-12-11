@@ -1,4 +1,4 @@
-<img src="DSC01904.png" alt="GitHub Banner" width="100%" />
+<img src="DSC01904.png" alt="GitHub Banner" width="100%" height="60%" />
 <h1>Hi 👋, I'm Hiep</h1>
 <p>A passionate backend developer </p>
 
