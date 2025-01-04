@@ -1,5 +1,5 @@
 <img src="DSC01904.png" alt="GitHub Banner" width="100%" />
-<h1>Hi 👋, I'm Hiep</h1>
+<h1>Hi 👋, My name is Hiep Tran</h1>
 <p>A passionate backend developer </p>
 
 # 🚀 Languages and Tools I Use:
