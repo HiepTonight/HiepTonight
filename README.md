@@ -1,6 +1,6 @@
 <img src="DSC01904.png" alt="GitHub Banner" width="100%" />
 <h1>Hi 👋, My name is Hiep Tran</h1>
-<p>A passionate backend developer. I love exploring emerging technologies and sharing knowledge with the community! Currently looking for an opportunity for a backend software developer </p>
+<p>A passionate backend developer. I love exploring emerging technologies and sharing knowledge with the community! Currently looking for an opportunity for a backend developer position </p>
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [hieptram40@gmail.com](mailto:hieptram40@gmail.com)
