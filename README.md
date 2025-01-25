@@ -14,7 +14,7 @@
 <h1>Hi 👋, My name is Hiep Tran</h1>
 <p>I'm a passionate backend developer. I love exploring emerging technologies and sharing knowledge with the community! Currently looking for an opportunity for a backend developer position </p>
 
-* 🌍  I'm based in Viet Nam
+* 🌍  I'm from Viet Nam
 * ✉️  You can contact me at [hieptram40@gmail.com](mailto:hieptram40@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
