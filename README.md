@@ -16,7 +16,7 @@
 
 * 🌍  I'm from Viet Nam
 * ✉️  You can contact me at [hieptram40@gmail.com](mailto:hieptram40@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on interesting projectss
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
