@@ -13,7 +13,7 @@
 
 <h1>Hi 👋, My name is Hiep Tran</h1>
 
-<p>I'm a passionate 🚀 Backend Developer.with a deep love for building scalable, efficient, and innovative systems. I thrive on exploring emerging technologies and leveraging them to solve real-world problems. Sharing knowledge and collaborating with the community is what drives me to grow and inspire others.</p>
+<p>I'm a passionate 🚀 Backend Developer.with a deep love for building scalable, efficient, and innovative systems. I thrive on exploring emerging technologies and leveraging them to solve real-world problems. Sharing knowledge and collaborating with the community is what drives me to grow and inspire others. </p>
 
 * 🌍  I'm Based in Vietnam
 * ✉️  Let's connect! Reach me at [hieptram40@gmail.com](mailto:hieptram40@gmail.com)
